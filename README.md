@@ -14,7 +14,7 @@ This project analyzes **sales performance** across different **regions, customer
 
 ## 📁 Project Files
 - **Sales-Analysis-Dashboard.xlsx** → Final dashboard
-- 
+  
 ## 🛠️ Tools & Techniques Used
 - **Excel Pivot Tables & Charts** 
 - **VLOOKUP & XLOOKUP for Data Merging** 
